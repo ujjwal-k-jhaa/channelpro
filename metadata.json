@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Channel Finder",
+  "description": "Find and filter YouTube channels by keyword, location, and language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
